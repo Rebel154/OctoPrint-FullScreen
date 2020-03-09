@@ -7,7 +7,7 @@ This plugin will allow you to open the webcam feed in fullscreen mode by double 
 Install via the bundled [Plugin Manager](https://github.com/foosel/OctoPrint/wiki/Plugin:-Plugin-Manager)
 or manually using this URL:
 
-    https://github.com/BillyBlaze/OctoPrint-FullScreen/archive/master.zip
+    https://github.com/Rebel154/OctoPrint-FullScreen/archive/master.zip
 
 
 ## Support browsers (tested)
